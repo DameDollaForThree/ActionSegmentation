@@ -1,7 +1,7 @@
 # TSA
 The repository contains our code for the proposed method described in our paper [**Leveraging triplet loss for unsupervised action segmentation**](https://arxiv.org/abs/2304.06403) inline link.
   
-![Overview of the proposed TSA framework illustrated on a sample video of the Breakfast Dataset: network architecture transforming the initial features X into the learned features Z through a shallow network with a novel triplet selection strategy and a triplet loss based on similarity distributions.](/figures/frameworkdef.jpg)
+![Overview of the proposed TSA framework illustrated on a sample video of the Breakfast Dataset: network architecture transforming the initial features X into the learned features Z through a shallow network with a novel triplet selection strategy and a triplet loss based on similarity distributions.](figures/frameworkdef.jpg)
 #### Overview of the proposed TSA framework illustrated on a sample video of the Breakfast Dataset: network architecture transforming the initial features X into the learned features Z through a shallow network with a novel triplet selection strategy and a triplet loss based on similarity distributions.
 
 -----

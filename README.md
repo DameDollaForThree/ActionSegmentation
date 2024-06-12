@@ -1,4 +1,4 @@
-# Unsupervised Action Segmentation
+# Unsupervised Temporal Action Segmentation from Video
 This project proposes some extension works based on the [TSA (temporal-semantic aware)](https://arxiv.org/abs/2304.06403) paper.
 
 ### Core idea:
